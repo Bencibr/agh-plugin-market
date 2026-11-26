@@ -860,7 +860,22 @@
           "engines": {
             "agh": ">=1.0.0"
           },
-          "provides": ["skills","bundle"]
+          "provides": [
+            "skills",
+            "bundle"
+          ]
+        },
+        {
+          "version": "0.1.5",
+          "publishTimestamp": 1795654449,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Bencibr/agh-plugin-bugx",
+            "commit": "335742ffbd58f96e5b8fd1a68ae13b6cc99c5752"
+          },
+          "engines": {
+            "agh": ">=1.0.0"
+          }
         }
       ]
     }
